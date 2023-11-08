@@ -128,7 +128,7 @@ Repetir para cliente.service.
 
 ---
 
-<img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/40368246?s=400&u=a7402c2d5af1e41852d39eaf80cb2154223f80db&v=4" width="100px;" alt=""/>
+<img style="border-radius: 50%;" src="https://media.licdn.com/dms/image/D4E35AQHD6Dpfo5h6gw/profile-framedphoto-shrink_200_200/0/1698103971969?e=1700078400&v=beta&t=vhrl_obemAZhMBmVvB5niNK4BqFK_AiCtoTdqaFi_RU" width="100px;" alt=""/>
  <br />
  <sub><b>Wanderson Duarte Alves</b></sub>
 
