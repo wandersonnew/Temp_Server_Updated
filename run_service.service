@@ -1,0 +1,11 @@
+[Unit]
+Description=Servidor de Temperatura
+
+[Service]
+Type=simple
+User=wanderson
+WorkingDirectory=/home/wanderson/Documentos/serv_temp/
+ExecStart=/home/wanderson/Documentos/serv_temp/run_server_temp.sh
+
+[Install]
+WantedBy=multi-user.target
